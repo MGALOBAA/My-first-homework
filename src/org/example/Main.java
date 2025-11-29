@@ -2,7 +2,9 @@ package org.example;
 import java.util.Scanner;
 
     public class  Main {
-        public static void main(String[] argd) {qcdm
+        public static void main(String[] argd) {
+            Object qcdm = null;
+
 
         // -------------------- 1. while - 3ზე გამრავლება --------------------
         System.out.println("1. 3-ზე გამრავლების ტაბულა:");
